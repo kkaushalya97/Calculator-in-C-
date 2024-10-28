@@ -1,1 +1,1 @@
-# Calculator-in-C-Hacktoberfest
+# Calculator using C++
